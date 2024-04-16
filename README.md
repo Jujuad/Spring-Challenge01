@@ -43,34 +43,63 @@ Acesse a aplicação através do Postman, utilizando os endpoints definidos na l
 # Lista de endpoints
 
 GET /clientes
+
 GET /clientes/{id}
+
 POST /clientes
+
 PUT /clientes/{id}
+
 DELETE /clientes/{id}
+
 GET /servicos
+
 GET /servicos/{id}
+
 POST /servicos
+
 PUT /servicos/{id}
+
 DELETE /servicos/{id}
+
 GET /compras
+
 GET /compras/{id}
+
 POST /compras
+
 PUT /compras/{id}
+
 DELETE /compras/{id}
+
 GET /avaliacoes
+
 GET /avaliacoes/{id}
+
 POST /avaliacoes
+
 PUT /avaliacoes/{id}
+
 DELETE /avaliacoes/{id}
+
 GET /product-reviews
+
 GET /product-reviews/{id}
+
 POST /product-reviews
+
 PUT /product-reviews/{id}
+
 DELETE /product-reviews/{id}
+
 GET /historico-cancelamentos
+
 GET /historico-cancelamentos/{id}
+
 POST /historico-cancelamentos
+
 PUT /historico-cancelamentos/{id}
+
 DELETE /historico-cancelamentos/{id}
 
 # Diagramas:
